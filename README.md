@@ -1,5 +1,10 @@
 # MapsTest
 
-An development testing excercise for learning Google Maps API.
+A development testing excercise for learning Google Maps API.
 
-Start and end points given, animating each step of the route between those points.
+You can click the button at the top right of the screen to start the trip, and for each subsequent click, show each step in the trip until the end, at which point an alert window states the trip is finished and the trip is reset.
+
+Gif of example functionality:
+![Example](https://evolatum.github.io/Portfolio/assets/images/example.gif)
+
+To use code you need to add your own API key to the HTML file.
